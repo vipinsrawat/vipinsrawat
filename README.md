@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Machine learning , React**
 
-- 📫 How to reach me **vipin.rawat2805@gmail.com**
+- 📫 How to reach me **vipinsinghrawat2805@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
